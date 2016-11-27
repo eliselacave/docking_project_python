@@ -1,2 +1,2 @@
 def usage() : 
-    print("\n\nLe programme main_barstar permet de traiter un fichier au format pdb afin de le parser puis \nde calculer des distances locales et globales permettant d'etudier la dynamique moleculaire. \nIl prend en argument en ligne de commande l'expression -pdb suivie du nom du fichier a traiter au format pdb. \n\nCommand line type must be : python main_barstar.py -pdb filename.pdb\n\n")
+    print("\n\nThe main_barstar program parses a .pdb file and \ncalculate local and global distances in order to study molecular dynamic. \n\nCommand line type must be : python main_barstar.py -pdb filename.pdb\n\n")
